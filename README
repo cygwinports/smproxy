@@ -1,6 +1,6 @@
 smproxy
 ------------------------------------------
-Xorg Session Manager proxy
+X.Org Session Manager proxy
 
 Runtime requirements:
   cygwin-1.5.20-1
