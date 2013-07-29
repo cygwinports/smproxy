@@ -1,4 +1,0 @@
-category: X11
-requires: libICE6 libSM6 libX11_6 libXmuu1 libXt6
-sdesc: "X.Org Session Manager proxy"
-ldesc: "X.Org Session Manager proxy"
