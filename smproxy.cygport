@@ -1,7 +1,7 @@
 inherit xorg
 
 NAME="smproxy"
-VERSION=1.0.5
+VERSION=1.0.6
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X Session Manager proxy"
